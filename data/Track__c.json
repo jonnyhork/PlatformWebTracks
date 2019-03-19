@@ -7,8 +7,498 @@
             },
             "Name": "7 rings",
             "Name__c": "7 rings",
-            "Image__c": "https://lastfm-img2.akamaized.net/i/u/174s/bb9f40893eb33262dbae67c2d5298550.png",
-            "Artist__c": "Ariana Grande"
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef2"
+            },
+            "Name": "Break Up with Your Girlfriend, I'm Bored",
+            "Name__c": "Break Up with Your Girlfriend, I'm Bored",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef3"
+            },
+            "Name": "Thank U, Next",
+            "Name__c": "Thank U, Next",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef4"
+            },
+            "Name": "bury a friend",
+            "Name__c": "bury a friend",
+            "Artist__c": "Billie Eilish",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/115bbadb106ebc33b90a7b2338084994.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef5"
+            },
+            "Name": "Sucker",
+            "Name__c": "Sucker",
+            "Artist__c": "Jonas Brothers",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/c2af7b3507e2fd8e7de44a6cba1c65ed.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef6"
+            },
+            "Name": "Shallow",
+            "Name__c": "Shallow",
+            "Artist__c": "Lady Gaga",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/7e60fbde56b666051778546a6c230659.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef7"
+            },
+            "Name": "Bloodline",
+            "Name__c": "Bloodline",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef8"
+            },
+            "Name": "Needy",
+            "Name__c": "Needy",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef9"
+            },
+            "Name": "Nasa",
+            "Name__c": "Nasa",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef10"
+            },
+            "Name": "Bad Idea",
+            "Name__c": "Bad Idea",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef11"
+            },
+            "Name": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "Name__c": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "Artist__c": "Post Malone",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/3f614bae6b45496c00b8c9c776106a7d.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef12"
+            },
+            "Name": "Imagine",
+            "Name__c": "Imagine",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef13"
+            },
+            "Name": "Wow.",
+            "Name__c": "Wow.",
+            "Artist__c": "Post Malone",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/3f614bae6b45496c00b8c9c776106a7d.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef14"
+            },
+            "Name": "Without Me",
+            "Name__c": "Without Me",
+            "Artist__c": "Halsey",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/14e7f4d6e74521f795de8ca141c6bf89.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef15"
+            },
+            "Name": "Fake Smile",
+            "Name__c": "Fake Smile",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef16"
+            },
+            "Name": "SICKO MODE",
+            "Name__c": "SICKO MODE",
+            "Artist__c": "Travi$ Scott",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/217d669d3699818789e9e30ef406c58f.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef17"
+            },
+            "Name": "Sweet but Psycho",
+            "Name__c": "Sweet but Psycho",
+            "Artist__c": "Ava Max",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/51fc481985d3c3deb4521b26ed15a20d.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef18"
+            },
+            "Name": "High Hopes",
+            "Name__c": "High Hopes",
+            "Artist__c": "Panic! at the Disco",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/c62f391b4c7de6377a5fbc0e0711e8f2.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef19"
+            },
+            "Name": "No Tears Left To Cry",
+            "Name__c": "No Tears Left To Cry",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef20"
+            },
+            "Name": "The Less I Know the Better",
+            "Name__c": "The Less I Know the Better",
+            "Artist__c": "Tame Impala",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/84fdda88b5618c73871c287bcf8925c8.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef21"
+            },
+            "Name": "Ghostin",
+            "Name__c": "Ghostin",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef22"
+            },
+            "Name": "Bohemian Rhapsody - Remastered 2011",
+            "Name__c": "Bohemian Rhapsody - Remastered 2011",
+            "Artist__c": "Queen",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/39be92dbb8013de8cd1dafc3430ff3d8.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef23"
+            },
+            "Name": "Dancing With a Stranger (with Normani)",
+            "Name__c": "Dancing With a Stranger (with Normani)",
+            "Artist__c": "Sam Smith",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/1b18d3ffba828166400a262be6a80ec0.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef24"
+            },
+            "Name": "365",
+            "Name__c": "365",
+            "Artist__c": "Zedd",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/2cc89f54bc6d977808af2b2c804541ab.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef25"
+            },
+            "Name": "Mr. Brightside",
+            "Name__c": "Mr. Brightside",
+            "Artist__c": "The Killers",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/6583c8519c5393cbfdaf860f8bf6d68a.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef26"
+            },
+            "Name": "Do I Wanna Know?",
+            "Name__c": "Do I Wanna Know?",
+            "Artist__c": "Arctic Monkeys",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/7d2fec3674a2a35dc0b2ee22082a8c36.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef27"
+            },
+            "Name": "when the party's over",
+            "Name__c": "when the party's over",
+            "Artist__c": "Billie Eilish",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/115bbadb106ebc33b90a7b2338084994.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef28"
+            },
+            "Name": "Make Up",
+            "Name__c": "Make Up",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef29"
+            },
+            "Name": "Things I Imagined",
+            "Name__c": "Things I Imagined",
+            "Artist__c": "Solange",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/d41d56c7bb2b2823313caf1f3e0d7ad1.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef30"
+            },
+            "Name": "Almeda",
+            "Name__c": "Almeda",
+            "Artist__c": "Solange",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/d41d56c7bb2b2823313caf1f3e0d7ad1.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef31"
+            },
+            "Name": "In My Head",
+            "Name__c": "In My Head",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef32"
+            },
+            "Name": "Wish You Were Gay",
+            "Name__c": "Wish You Were Gay",
+            "Artist__c": "Billie Eilish",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/115bbadb106ebc33b90a7b2338084994.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef33"
+            },
+            "Name": "Don't Stop Me Now - Remastered",
+            "Name__c": "Don't Stop Me Now - Remastered",
+            "Artist__c": "Queen",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/39be92dbb8013de8cd1dafc3430ff3d8.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef34"
+            },
+            "Name": "Stay Flo",
+            "Name__c": "Stay Flo",
+            "Artist__c": "Solange",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/d41d56c7bb2b2823313caf1f3e0d7ad1.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef35"
+            },
+            "Name": "Talk",
+            "Name__c": "Talk",
+            "Artist__c": "Khalid",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/549439ce15479022331d49212368ff94.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef36"
+            },
+            "Name": "i'm so tired...",
+            "Name__c": "i'm so tired...",
+            "Artist__c": "Lauv",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/0728ee425d0cf1b9a8c32965c2cd96d5.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef37"
+            },
+            "Name": "MIDDLE CHILD",
+            "Name__c": "MIDDLE CHILD",
+            "Artist__c": "J. Cole",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/71f4aab92ee7fc36e739f34eef0a9923.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef38"
+            },
+            "Name": "Africa",
+            "Name__c": "Africa",
+            "Artist__c": "Toto",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/cad95a4741ad48fdaf52effde337d910.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef39"
+            },
+            "Name": "Please Me",
+            "Name__c": "Please Me",
+            "Artist__c": "Cardi B",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/cd3190195cd0c12478c2faaa8a6b51fe.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef40"
+            },
+            "Name": "God is a Woman",
+            "Name__c": "God is a Woman",
+            "Artist__c": "Ariana Grande",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/bb9f40893eb33262dbae67c2d5298550.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef41"
+            },
+            "Name": "Down with the Clique",
+            "Name__c": "Down with the Clique",
+            "Artist__c": "Solange",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/d41d56c7bb2b2823313caf1f3e0d7ad1.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef42"
+            },
+            "Name": "Way to the Show",
+            "Name__c": "Way to the Show",
+            "Artist__c": "Solange",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/d41d56c7bb2b2823313caf1f3e0d7ad1.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef43"
+            },
+            "Name": "Dreams",
+            "Name__c": "Dreams",
+            "Artist__c": "Solange",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/d41d56c7bb2b2823313caf1f3e0d7ad1.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef44"
+            },
+            "Name": "Smells Like Teen Spirit",
+            "Name__c": "Smells Like Teen Spirit",
+            "Artist__c": "Nirvana",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/6ff086c6ec0a8d50882bd4aac46cd3d2.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef45"
+            },
+            "Name": "Better Now",
+            "Name__c": "Better Now",
+            "Artist__c": "Post Malone",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/3f614bae6b45496c00b8c9c776106a7d.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef46"
+            },
+            "Name": "Happier",
+            "Name__c": "Happier",
+            "Artist__c": "Marshmello",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/c388c52128bec92e594880486e73f4f4.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef47"
+            },
+            "Name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+            "Name__c": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+            "Artist__c": "Mark Ronson",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/7f867e2025793d4df822e7cdc0b91234.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef48"
+            },
+            "Name": "a lot",
+            "Name__c": "a lot",
+            "Artist__c": "21 Savage",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/64b30e92f3af128a870991b61c1baebd.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef49"
+            },
+            "Name": "HUMBLE.",
+            "Name__c": "HUMBLE.",
+            "Artist__c": "Kendrick Lamar",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/c3c18f4b454a897c445db1acd1b403f1.png"
+        },
+        {
+            "attributes": {
+                "type": "Track__c",
+                "referenceId": "Track__cRef50"
+            },
+            "Name": "Feel It Still",
+            "Name__c": "Feel It Still",
+            "Artist__c": "Portugal. The Man",
+            "Image__c": "https://lastfm-img2.akamaized.net/i/u/300x300/d308aa59eb5b466b8db1184120ccb045.png"
         }
     ]
 }
