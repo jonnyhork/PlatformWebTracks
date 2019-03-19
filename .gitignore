@@ -60,5 +60,5 @@ typings/
 # next.js build output
 .next
 
-.sfdx/sfdx-config.json
+**/sfdx-config.json
 config/project-scratch-def.json
