@@ -1,0 +1,311 @@
+[
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553010227955,
+            "changeTime": 1553010227955,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553010227955,
+            "changeTime": 1553010227955,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1553014277475,
+            "changeTime": 1553014277475,
+            "contentHash": "093d4b8c2d3e40d9f213a48eaf6b419f6bdeedc1"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1553010227955,
+            "changeTime": 1553010227955,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553012306210,
+            "changeTime": 1553012306210,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1553012302495,
+            "changeTime": 1553012302495,
+            "contentHash": "96bea39d73d1dcd3ca26109db1df3f1a79e2926d",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1553014277451,
+            "changeTime": 1553014277451,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/Track__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/Track__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2009,
+            "modifiedTime": 1553014277464,
+            "changeTime": 1553014277464,
+            "contentHash": "78b679ce90a272ec8c5ff820d756da82ad558e9a"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Album__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Album__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 356,
+            "modifiedTime": 1553014277464,
+            "changeTime": 1553014277464,
+            "contentHash": "3c9b7cd723110e952e05da23b1592b8173b97454"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Artist__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Artist__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1553014277465,
+            "changeTime": 1553014277465,
+            "contentHash": "4f76d56585eac98d16034049b7d5e301f3d81c59"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Image__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Image__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 303,
+            "modifiedTime": 1553014277465,
+            "changeTime": 1553014277465,
+            "contentHash": "89faed4b0096264c609086e00f158897383060b6"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 354,
+            "modifiedTime": 1553014277465,
+            "changeTime": 1553014277465,
+            "contentHash": "c8d7b57faf4cb5c7391754824bbae50c0fae56b8"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/layouts/Track__c-Track Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/layouts/Track__c-Track Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2487,
+            "modifiedTime": 1553014277471,
+            "changeTime": 1553014277471,
+            "contentHash": "5c22951c70b008a018b17c008244208d43a2ce6c"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5500,
+            "modifiedTime": 1553014277477,
+            "changeTime": 1553014277477,
+            "contentHash": "8d3e2a6a7b91d7712b864c73b029977a762c661f"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5162,
+            "modifiedTime": 1553014277482,
+            "changeTime": 1553014277482,
+            "contentHash": "28c7d50312d3528ce8d87f2d00a323e677607e9c"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5162,
+            "modifiedTime": 1553014277487,
+            "changeTime": 1553014277487,
+            "contentHash": "28c7d50312d3528ce8d87f2d00a323e677607e9c"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19636,
+            "modifiedTime": 1553014277496,
+            "changeTime": 1553014277496,
+            "contentHash": "418de3dde2c49190eadb9c178b95a88f8855782b"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/settings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553014277451,
+            "changeTime": 1553014277451,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553014277464,
+            "changeTime": 1553014277464,
+            "contentHash": "8d73cf390df4942a513171d699f11727eb9d42f4"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553014277461,
+            "changeTime": 1553014277461,
+            "contentHash": "18ebe72006dcb80878d31a835530988bf3f6f9b0"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/objects/Track__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1553014277465,
+            "changeTime": 1553014277465,
+            "contentHash": "f5d980bd8d8979368a2ba44c9d89888242bca22f"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553014277471,
+            "changeTime": 1553014277471,
+            "contentHash": "18a71518f91618913e879fc6c235e40bd0ed6828"
+        }
+    ],
+    [
+        "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ricardo.viera/projects/PlatformWebTracks/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1553014277496,
+            "changeTime": 1553014277496,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
