@@ -32,15 +32,14 @@
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default",
             "isDirectory": true,
-            "size": 384,
-            "modifiedTime": 1553030381488,
-            "changeTime": 1553026807625,
-            "contentHash": "1be75707a214d0c512d9410f2bcfa1f4299b2036",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 416,
+            "modifiedTime": 1553032815798,
+            "changeTime": 1553032815798,
+            "contentHash": "dc381dbed8b31c13a1aff168c02c0d77bd5fc8aa"
         }
     ],
     [
@@ -226,56 +225,53 @@
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 20058,
-            "modifiedTime": 1553030381490,
-            "changeTime": 1553028032834,
-            "contentHash": "7a7e900e94b9f6bb6c3da632482561040a574efb",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 20304,
+            "modifiedTime": 1553032815775,
+            "changeTime": 1553032815775,
+            "contentHash": "59cf853d26a259baf1141b1a57bd47503a9f31ba"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5460,
-            "modifiedTime": 1553018014488,
-            "changeTime": 1553018014488,
-            "contentHash": "314a417fde2d533278a4c1806193930d902c8d19",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false
+            "size": 5832,
+            "modifiedTime": 1553032815787,
+            "changeTime": 1553032815787,
+            "contentHash": "2ea360a4b5e3f214c315b45ac15fb3542c3d3c04"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5460,
-            "modifiedTime": 1553018014489,
-            "changeTime": 1553018014489,
-            "contentHash": "314a417fde2d533278a4c1806193930d902c8d19",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false
+            "size": 5832,
+            "modifiedTime": 1553032815797,
+            "changeTime": 1553032815797,
+            "contentHash": "2ea360a4b5e3f214c315b45ac15fb3542c3d3c04"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5798,
-            "modifiedTime": 1553018014490,
-            "changeTime": 1553018014490,
-            "contentHash": "3fa5fdfbc77ba6645b782823397f1b4a5e6c8167",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false
+            "size": 6170,
+            "modifiedTime": 1553032815781,
+            "changeTime": 1553032815781,
+            "contentHash": "e9f2441088e1541f9113b554592ef329490973a6"
         }
     ],
     [
@@ -351,14 +347,14 @@
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1553018014490,
-            "changeTime": 1553018014490,
-            "contentHash": "58e6c65b052255895206b820f6843ae85157c07d",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 128,
+            "modifiedTime": 1553032815745,
+            "changeTime": 1553032815745,
+            "contentHash": "52d6c2104b0d9d42d40312ab28f47eadc6332c9f"
         }
     ],
     [
@@ -442,14 +438,14 @@
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1553032419981,
+            "changeTime": 1553032419981,
+            "contentHash": "42496f091a9734c5fb8a08985a61e03063e90a7e",
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1553031600969,
-            "changeTime": 1553031600969,
-            "contentHash": "fc59f3c9011792e3781cd06f93851b336cdc5949"
+            "state": "u"
         }
     ],
     [
@@ -754,131 +750,430 @@
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1553031600976,
             "changeTime": 1553031600976,
-            "contentHash": "2818d0a2f307bef620a39355c095b28b80025001"
+            "contentHash": "2818d0a2f307bef620a39355c095b28b80025001",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1553031600975,
             "changeTime": 1553031600975,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 578,
             "modifiedTime": 1553031712679,
             "changeTime": 1553031712679,
-            "contentHash": "615eebf9661ca019346d0a406093226e960cd802"
+            "contentHash": "615eebf9661ca019346d0a406093226e960cd802",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 241,
             "modifiedTime": 1553031600970,
             "changeTime": 1553031600970,
-            "contentHash": "aa0ffc3cdefd1e1e873578d6bc9b314432c56940"
+            "contentHash": "aa0ffc3cdefd1e1e873578d6bc9b314432c56940",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.css",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1553031600973,
             "changeTime": 1553031600973,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.design",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1553031600976,
             "changeTime": 1553031600976,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1553031600974,
             "changeTime": 1553031600974,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1440,
             "modifiedTime": 1553031818931,
             "changeTime": 1553031818931,
-            "contentHash": "e43926ac760354e54972e5e4f61336a54d0375bc"
+            "contentHash": "e43926ac760354e54972e5e4f61336a54d0375bc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1553031600972,
             "changeTime": 1553031600972,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1553031600973,
             "changeTime": 1553031600973,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1553032262529,
+            "changeTime": 1553032262529,
+            "contentHash": "19e98771c460702c6aa844f07c9717a87ff87289",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1553032419984,
+            "changeTime": 1553032419984,
+            "contentHash": "96402267b262dc29e082aa26769da9ec108d55bf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.auradoc",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1553032262529,
+            "changeTime": 1553032262529,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.cmp",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.cmp",
+            "isDirectory": false,
+            "size": 809,
+            "modifiedTime": 1553032385508,
+            "changeTime": 1553032385508,
+            "contentHash": "6bbcffe059af6fe4d7b93b16a3292292ee68f36e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1553032262526,
+            "changeTime": 1553032262526,
+            "contentHash": "494d94c65d7a1c4c072816211d6a0c3530c1ea2f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.css",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1553032262528,
+            "changeTime": 1553032262528,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.design",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1553032262529,
+            "changeTime": 1553032262529,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.svg",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1553032262528,
+            "changeTime": 1553032262528,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponentController.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponentController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1553032262527,
+            "changeTime": 1553032262527,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponentHelper.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponentHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1553032262527,
+            "changeTime": 1553032262527,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponentRenderer.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackComponent/TrackComponentRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1553032262528,
+            "changeTime": 1553032262528,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.auradoc",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1553032419984,
+            "changeTime": 1553032419984,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.cmp",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1553032419981,
+            "changeTime": 1553032419981,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1553032419982,
+            "changeTime": 1553032419982,
+            "contentHash": "83b5f8b41497cf0857e7953c29397e5d0db35eb6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.css",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1553032419983,
+            "changeTime": 1553032419983,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.design",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1553032419985,
+            "changeTime": 1553032419985,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.svg",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetail.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1553032419983,
+            "changeTime": 1553032419983,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetailController.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetailController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1553032419982,
+            "changeTime": 1553032419982,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetailHelper.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetailHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1553032419983,
+            "changeTime": 1553032419983,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetailRenderer.js",
+        {
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackDetail/TrackDetailRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1553032419983,
+            "changeTime": 1553032419983,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/tabs/Top_Tracks.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/tabs/Top_Tracks.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 266,
+            "modifiedTime": 1553032815745,
+            "changeTime": 1553032815745,
+            "contentHash": "5a16f03143fb7474951acdd3ac7cb7351e09a1b8"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/permissionsets/Tracks.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/permissionsets/Tracks.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 309,
+            "modifiedTime": 1553032815798,
+            "changeTime": 1553032815798,
+            "contentHash": "f1a83eb1b94c10f9be7c884816e735014f80a17a"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553032815798,
+            "changeTime": 1553032815798,
+            "contentHash": "bd49b49a3c06cef62c6f42ada3eb0cd2fd993fd1"
         }
     ]
 ]
