@@ -10,6 +10,7 @@
     <label>Platform Web Tracks</label>
     <navType>Standard</navType>
     <tabs>Track__c</tabs>
+    <tabs>standard-Contact</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Platform_Web_Tracks_UtilityBar</utilityBar>
 </CustomApplication>

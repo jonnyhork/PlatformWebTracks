@@ -41,14 +41,14 @@
         <type>Default</type>
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
-    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayoutAssignment>Full_Layout</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <label>Track</label>
@@ -57,7 +57,16 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Tracks</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts>
+        <customTabListAdditionalFields>Artist__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Image__c</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>Artist__c</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>Image__c</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Artist__c</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>Image__c</lookupPhoneDialogsAdditionalFields>
+        <searchResultsAdditionalFields>Artist__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Image__c</searchResultsAdditionalFields>
+    </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

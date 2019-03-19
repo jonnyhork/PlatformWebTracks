@@ -2,14 +2,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1553015065236,
             "changeTime": 1553015065236,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1553015065236,
             "changeTime": 1553015065236,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,27 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1553015065240,
-            "changeTime": 1553015065240,
-            "contentHash": "2f738d4d1c8f69c603dd55c97307a3ab827f533b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 320,
+            "modifiedTime": 1553017631816,
+            "changeTime": 1553017631816,
+            "contentHash": "42ef17b618de4b078fdc1f102b222ac9b85c1b6a"
         }
     ],
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/layouts",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1553015065236,
             "changeTime": 1553015065236,
             "contentHash": "18a71518f91618913e879fc6c235e40bd0ed6828",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +60,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/layouts/Track__c-Track Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/layouts/Track__c-Track Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2487,
             "modifiedTime": 1553015065236,
             "changeTime": 1553015065236,
             "contentHash": "5c22951c70b008a018b17c008244208d43a2ce6c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +75,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/lwc",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1553015065237,
             "changeTime": 1553015065237,
             "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +90,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1553015065237,
             "changeTime": 1553015065237,
             "contentHash": "18ebe72006dcb80878d31a835530988bf3f6f9b0",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +105,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1553015065237,
             "changeTime": 1553015065237,
             "contentHash": "8d73cf390df4942a513171d699f11727eb9d42f4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +120,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/Track__c.object-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/Track__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2009,
             "modifiedTime": 1553015065237,
             "changeTime": 1553015065237,
             "contentHash": "78b679ce90a272ec8c5ff820d756da82ad558e9a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +135,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/fields",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1553015065238,
             "changeTime": 1553015065238,
             "contentHash": "f5d980bd8d8979368a2ba44c9d89888242bca22f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +150,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Album__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Album__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 356,
             "modifiedTime": 1553015065238,
             "changeTime": 1553015065238,
             "contentHash": "3c9b7cd723110e952e05da23b1592b8173b97454",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +165,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Artist__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Artist__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 358,
             "modifiedTime": 1553015065238,
             "changeTime": 1553015065238,
             "contentHash": "4f76d56585eac98d16034049b7d5e301f3d81c59",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +180,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Image__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Image__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 303,
             "modifiedTime": 1553015065238,
             "changeTime": 1553015065238,
             "contentHash": "89faed4b0096264c609086e00f158897383060b6",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +195,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Name__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/objects/Track__c/fields/Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 354,
             "modifiedTime": 1553015065238,
             "changeTime": 1553015065238,
             "contentHash": "c8d7b57faf4cb5c7391754824bbae50c0fae56b8",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,14 +210,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/profiles",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1553015065240,
             "changeTime": 1553015065240,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,74 +225,66 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 19636,
-            "modifiedTime": 1553015065239,
-            "changeTime": 1553015065239,
-            "contentHash": "418de3dde2c49190eadb9c178b95a88f8855782b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 19934,
+            "modifiedTime": 1553017631871,
+            "changeTime": 1553017631871,
+            "contentHash": "9d739254e51e99fd5aaf4a701ec901d79d193b37"
         }
     ],
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5162,
-            "modifiedTime": 1553015065239,
-            "changeTime": 1553015065239,
-            "contentHash": "28c7d50312d3528ce8d87f2d00a323e677607e9c",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 5460,
+            "modifiedTime": 1553017631824,
+            "changeTime": 1553017631824,
+            "contentHash": "314a417fde2d533278a4c1806193930d902c8d19"
         }
     ],
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5162,
-            "modifiedTime": 1553015065239,
-            "changeTime": 1553015065239,
-            "contentHash": "28c7d50312d3528ce8d87f2d00a323e677607e9c",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 5460,
+            "modifiedTime": 1553017631876,
+            "changeTime": 1553017631876,
+            "contentHash": "314a417fde2d533278a4c1806193930d902c8d19"
         }
     ],
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5500,
-            "modifiedTime": 1553015065240,
-            "changeTime": 1553015065240,
-            "contentHash": "8d3e2a6a7b91d7712b864c73b029977a762c661f",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 5798,
+            "modifiedTime": 1553017631833,
+            "changeTime": 1553017631833,
+            "contentHash": "3fa5fdfbc77ba6645b782823397f1b4a5e6c8167"
         }
     ],
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/settings",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/settings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1553015065240,
             "changeTime": 1553015065240,
             "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -302,14 +292,14 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/settings/OrgPreference.settings-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/settings/OrgPreference.settings-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6383,
             "modifiedTime": 1553015065240,
             "changeTime": 1553015065240,
             "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,16 +307,94 @@
     [
         "/Users/lisa.morgan/PlatformWebTracks",
         {
-            "state": "n",
             "sourcePath": "/Users/lisa.morgan/PlatformWebTracks",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 416,
             "modifiedTime": 1553015177407,
             "changeTime": 1553015177407,
             "contentHash": "96bea39d73d1dcd3ca26109db1df3f1a79e2926d",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/flexipages/Platform_Web_Tracks_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/flexipages/Platform_Web_Tracks_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 514,
+            "modifiedTime": 1553017631813,
+            "changeTime": 1553017631813,
+            "contentHash": "ad04ada914040db03ffe7467817a33cfcfdf5e96"
+        }
+    ],
+    [
+        "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/tabs/Track__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/tabs/Track__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1553017631814,
+            "changeTime": 1553017631814,
+            "contentHash": "3f4a479df860f698232ab09cb718ce8ff7f2d0bf"
+        }
+    ],
+    [
+        "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/applications/Platform_Web_Tracks.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/applications/Platform_Web_Tracks.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 620,
+            "modifiedTime": 1553017631816,
+            "changeTime": 1553017631816,
+            "contentHash": "a775a903b0a4ac3577c7b6f23bcace2d76398347"
+        }
+    ],
+    [
+        "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553017631813,
+            "changeTime": 1553017631813,
+            "contentHash": "50ba04a9ef36d089a7e1ffe9e5ba411cb53aab02"
+        }
+    ],
+    [
+        "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553017631814,
+            "changeTime": 1553017631814,
+            "contentHash": "58e6c65b052255895206b820f6843ae85157c07d"
+        }
+    ],
+    [
+        "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lisa.morgan/PlatformWebTracks/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553017631816,
+            "changeTime": 1553017631816,
+            "contentHash": "6ffc314f2923c4ea4301c814f21a61153d1fb4e7"
         }
     ]
 ]
