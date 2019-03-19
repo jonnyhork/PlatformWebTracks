@@ -6,3 +6,8 @@ package.xml
 **/jsconfig.json
 
 **/.eslintrc.json
+
+AppSwitcher.appMenu
+
+
+
