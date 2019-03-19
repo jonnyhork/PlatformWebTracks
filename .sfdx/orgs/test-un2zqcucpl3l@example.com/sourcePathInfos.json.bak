@@ -442,14 +442,14 @@
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1553030381487,
-            "changeTime": 1553029444922,
-            "contentHash": "506e4be0c1a86fabece67c939fb9127fb8dc8be6",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 192,
+            "modifiedTime": 1553031600969,
+            "changeTime": 1553031600969,
+            "contentHash": "fc59f3c9011792e3781cd06f93851b336cdc5949"
         }
     ],
     [
@@ -468,14 +468,14 @@
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TracksLoaded/TracksLoaded.evt",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TracksLoaded/TracksLoaded.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 100,
             "modifiedTime": 1553030837690,
             "changeTime": 1553030837690,
-            "contentHash": "48efdc89e48f0c90b9a1236844041b19c8841f91"
+            "contentHash": "48efdc89e48f0c90b9a1236844041b19c8841f91",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -650,14 +650,14 @@
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackSearch/TrackSearch.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackSearch/TrackSearch.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 685,
             "modifiedTime": 1553031505293,
             "changeTime": 1553031505293,
-            "contentHash": "f40882c44f482902bd7beefd1a12ef05765e71e6"
+            "contentHash": "f40882c44f482902bd7beefd1a12ef05765e71e6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -689,14 +689,14 @@
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackSearch/TrackSearch.design",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackSearch/TrackSearch.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 39,
             "modifiedTime": 1553031072321,
             "changeTime": 1553031072321,
-            "contentHash": "23788998e40fefc4b806a91823183af35d6f7dfa"
+            "contentHash": "23788998e40fefc4b806a91823183af35d6f7dfa",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -715,27 +715,27 @@
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackSearch/TrackSearchController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackSearch/TrackSearchController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 477,
             "modifiedTime": 1553030514203,
             "changeTime": 1553030514203,
-            "contentHash": "5a42ac41b3a0305af8b6cbbfd9899d9262146c55"
+            "contentHash": "5a42ac41b3a0305af8b6cbbfd9899d9262146c55",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackSearch/TrackSearchHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackSearch/TrackSearchHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 569,
             "modifiedTime": 1553030560678,
             "changeTime": 1553030560678,
-            "contentHash": "1b15f2e44551b55918b716b13b6dd044b1d1b40c"
+            "contentHash": "1b15f2e44551b55918b716b13b6dd044b1d1b40c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -749,6 +749,136 @@
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1553031600976,
+            "changeTime": 1553031600976,
+            "contentHash": "2818d0a2f307bef620a39355c095b28b80025001"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1553031600975,
+            "changeTime": 1553031600975,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 578,
+            "modifiedTime": 1553031712679,
+            "changeTime": 1553031712679,
+            "contentHash": "615eebf9661ca019346d0a406093226e960cd802"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1553031600970,
+            "changeTime": 1553031600970,
+            "contentHash": "aa0ffc3cdefd1e1e873578d6bc9b314432c56940"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1553031600973,
+            "changeTime": 1553031600973,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1553031600976,
+            "changeTime": 1553031600976,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1553031600974,
+            "changeTime": 1553031600974,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1440,
+            "modifiedTime": 1553031818931,
+            "changeTime": 1553031818931,
+            "contentHash": "e43926ac760354e54972e5e4f61336a54d0375bc"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1553031600972,
+            "changeTime": 1553031600972,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tcromer/workspace/tmp/PlatformWebTracks/force-app/main/default/aura/TrackList/TrackListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1553031600973,
+            "changeTime": 1553031600973,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]

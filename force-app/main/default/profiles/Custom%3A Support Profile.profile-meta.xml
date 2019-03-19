@@ -5,6 +5,14 @@
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>AccountSearchController</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>TrackListController</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -29,6 +37,10 @@
     <layoutAssignments>
         <layout>Track__c-Track Layout</layout>
     </layoutAssignments>
+    <tabVisibilities>
+        <tab>Top_Tracks</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>Track__c</tab>
         <visibility>DefaultOn</visibility>
