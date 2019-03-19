@@ -1,3 +1,15 @@
-<aura:component>
-
-</aura:component>	
+<aura:component controller="TrackListController">
+    <aura:registerEvent name="tracksLoaded" type="c:TracksLoaded"/>
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
+    <aura:attribute name="searchTerm" type="String" default="Ariana"/>
+    <lightning:card title="Account Search" iconName="standard:search">
+        <div class="slds-form slds-p-around_x-small">
+            <lightning:input
+                label="Search"
+                variant="label-hidden"
+                value="{!v.searchTerm}"
+                placeholder="Search by track or artist"
+                onchange="{!c.onSearchTermChange}"/>
+        </div>
+    </lightning:card>
+</aura:component>
