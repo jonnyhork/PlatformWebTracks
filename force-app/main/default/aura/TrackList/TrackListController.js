@@ -20,8 +20,8 @@
                 'label': 'Action',
                 'type': 'button',
                 'typeAttributes': {
-                    'label': 'View details',
-                    'name': 'view_details'
+                    'label': 'View Image',
+                    'name': 'view_image'
                 }
             }
         ];
@@ -29,18 +29,18 @@
         component.set( 'v.rows', event.getParam( 'tracks' ) );
     },
     onRowAction: function( component, event, helper ) {
-        // var action = event.getParam( 'action' );
-        // var row = event.getParam( 'row' );
-        // if ( action.name == 'view_details' ) {
-        //     var navigation = component.find( 'navigation' );
-        //     navigation.navigate({
-        //         'type': 'standard__recordPage',
-        //         'attributes': {
-        //             'objectApiName': 'Account',
-        //             'recordId': row.Id,
-        //             'actionName': 'view'
-        //         }
-        //     });
-        // }
+        var action = event.getParam( 'action' );
+        var row = event.getParam( 'row' );
+        if ( action.name == 'view_image' ) {
+            var navigation = component.find( 'navigation' );
+            navigation.navigate({
+                'type': 'standard__recordPage',
+                'attributes': {
+                    'objectApiName': 'Track__c',
+                    'recordId': row.Id,
+                    'actionName': 'view'
+                }
+            });
+        }
     }
 })
